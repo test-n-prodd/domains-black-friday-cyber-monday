@@ -2,8 +2,6 @@
 
 A curated list of domain name deals for Black Friday & Cyber Monday 2024. Find discounts on domain registrations, transfers, premium domains, backorders, and domain-related services.
 
-Feel free to add domain deals [with a Pull Request](https://github.com/MichaelCyger/domains-black-friday-cyber-monday/blob/main/CONTRIBUTING.md).
-
 Don't forget to:
 - 👉 ...give this repo a star so it becomes trending on Black Friday! ⭐ 
 - 👉 ...bookmark this page to come back here next year 2025! 📆
