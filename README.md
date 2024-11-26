@@ -1,1 +1,199 @@
-# domains-black-friday-cyber-monday
+# 🌐 Domain Name Black Friday / Cyber Monday Deals - 2024 💰
+
+A curated list of domain name deals for Black Friday & Cyber Monday 2024. Find discounts on domain registrations, transfers, premium domains, backorders, and domain-related services.
+
+Feel free to add domain deals [with a Pull Request](https://github.com/MichaelCyger/domains-black-friday-cyber-monday/blob/main/CONTRIBUTING.md).
+
+Don't forget to:
+- 👉 ...give this repo a star so it becomes trending on Black Friday! ⭐ 
+- 👉 ...bookmark this page to come back here next year 2025! 📆
+
+## Table of Contents
+
+Total deals: 89
+
+- [🔥 Featured Deals](#-featured-deals)
+- [📝 Domain Registration](#-domain-registration)
+  - [Classic TLDs (.com, .net, .org)](#classic-tlds)
+  - [Popular Alternative TLDs (.io, .co, .me)](#popular-alternative-tlds)
+  - [Geographic TLDs](#geographic-tlds)
+  - [Industry/Purpose TLDs](#industrypurpose-tlds)
+  - [New gTLDs](#new-gtlds)
+- [🔄 Domain Transfer Deals](#-domain-transfer-deals)
+- [🎯 Bundle Deals](#-bundle-deals)
+- [💎 Premium Domain Deals](#-premium-domain-deals)
+- [📰 Sources](#-premium-domain-deals)
+
+## 🔥 Featured Deals
+
+The best domain deals of Black Friday 2024:
+
+| Deal | Original Price | Sale Price | Registrar | Dates | Code |
+|------|----------------|------------|-----------|--------|------|
+| .com registration | $12.99 | $4.49 | Name.com | Nov 24-27, 2024 | - |
+| .com + .pro bundle | $19.98 | $4.49 | Name.com | Nov 24-27, 2024 | - |
+| .io + .tech bundle | $22.98 | $8.99 | Dynadot | Nov 25 - Dec 2, 2024 00:00-23:59 UTC | - |
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 📝 Domain Registration
+
+### Classic TLDs
+| TLD | Original Price | Sale Price | Registrar | Dates | Code |
+|-----|----------------|------------|-----------|--------|------|
+| .biz | $5.99 | $1.49 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .biz | $15.94 | $5.13 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .com | $12.99 | $4.99 | Name.com | Nov 24-27, 2024 | - |
+| .info | $3.49 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 00:00 UTC | - |
+| .net | $12.99 | $3.49 | Dynadot | Nov 29 - Dec 3, 2024 04:59 UTC | - |
+| .net | $11.48 | $3.33 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+
+### Popular Alternative TLDs
+| TLD | Original Price | Sale Price | Registrar | Dates | Code |
+|-----|----------------|------------|-----------|--------|------|
+| .co | $9.99 | $2.99 | Dynadot | Nov 26 - Dec 2, 2024 23:59 UTC | - |
+| .co | $25.03 | $9.58 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .io | $37.99 | $15.99 | Dynadot | Nov 29 - Dec 3, 2024 00:00 UTC | - |
+| .io | $46.65 | $19.99 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .me | $20.99 | $1.69 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .me | $16.06 | $7.58 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+
+### Geographic TLDs
+| TLD | Original Price | Sale Price | Registrar | Dates | Code |
+|-----|----------------|------------|-----------|--------|------|
+| .asia | $4.99 | $2.69 | Dynadot | Nov 23 - Dec 7, 2024 23:59 UTC | - |
+| .asia | $10.79 | $2.04 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .cv | $15.99 | $2.99 | Dynadot | Nov 29 - Dec 3, 2024 23:59 UTC | - |
+| .my | $21.99 | $0.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .nyc | $20.99 | $5.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .vegas | $37.99 | $10.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+
+### Industry/Purpose TLDs
+| TLD | Original Price | Sale Price | Registrar | Dates | Code |
+|-----|----------------|------------|-----------|--------|------|
+| .app | $15.99 | $7.99 | Dynadot | Nov 26 - Dec 4, 2024 00:00 UTC | - |
+| .dev | $13.99 | $6.99 | Dynadot | Nov 26 - Dec 4, 2024 00:00 UTC | - |
+| .inc | $1829.99 | $134.99 | Dynadot | Nov 26 - Dec 3, 2024 00:00 UTC | - |
+| .inc | $2,060.23 | $167.82 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+
+### New gTLDs
+| TLD | Original Price | Sale Price | Registrar | Dates | Code |
+|-----|----------------|------------|-----------|--------|------|
+| .agency | $19.03 | $4.61 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .art | $9.99 | $1.79 | Dynadot | Nov 27 - Dec 3, 2024 23:59 UTC | - |
+| .art | $21.09 | $3.58 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .bar | $20.99 | $0.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .bar | $51.99 | $2.55 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .blog | $21.09 | $3.58 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .bond | $2.99 | $1.79 | Dynadot | Nov 19 - Dec 6, 2024 14:00 UTC | - |
+| .bond | $9.76 | $2.04 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .buzz | $26.24 | $1.99 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .cfd | $1.99 | $0.99 | Dynadot | Nov 19 - Dec 6, 2024 14:00 UTC | - |
+| .cfd | $9.76 | $1.20 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .christmas | $35.75 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .city | $18.00 | $4.61 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .click | $1.99 | $0.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .click | $9.76 | $2.04 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .club | $4.49 | $1.49 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .club | $12.85 | $4.10 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .cyou | $1.99 | $0.99 | Dynadot | Nov 19 - Dec 6, 2024 14:00 UTC | - |
+| .cyou | $9.76 | $1.41 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .day | $14.99 | $5.99 | Dynadot | Nov 26 - Dec 4, 2024 00:00 UTC | - |
+| .diy | $5.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .email | $20.06 | $4.61 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .food | $9.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .forum | $5.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .forum | $31.39 | $2.55 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .fyi | $3.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 00:00 UTC | - |
+| .group | $14.91 | $6.16 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .help | $4.99 | $0.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .help | $21.09 | $1.52 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .icu | $1.94 | $1.29 | Dynadot | Nov 19 - Dec 6, 2024 14:00 UTC | - |
+| .icu | $9.76 | $1.73 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .js | $4.49 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .legal | $46.84 | $5.64 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .lifestyle | $9.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .live | $3.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 00:00 UTC | - |
+| .living | $9.99 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .love | $9.99 | $2.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .love | $21.09 | $8.73 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .marketing | $29.33 | $6.67 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .media | $29.33 | $6.16 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .moe | $12.85 | $6.67 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .mov | $14.99 | $5.99 | Dynadot | Nov 26 - Dec 3, 2024 00:00 UTC | - |
+| .one | $1.49 | $1.69 | Dynadot | Nov 29 - Dec 3, 2024 23:59 UTC | - |
+| .one | $13.88 | $2.60 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .property | $28.99 | $9.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .property | $103.48 | $18.00 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .realty | $28.99 | $9.99 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .rest | $1.99 | $0.99 | Dynadot | Nov 29 - Dec 3, 2024 23:59 UTC | - |
+| .rest | $26.24 | $2.55 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .rip | $15.94 | $4.61 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .sbs | $1.99 | $0.99 | Dynadot | Nov 19 - Dec 6, 2024 14:00 UTC | - |
+| .sbs | $9.76 | $1.20 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .shop | $25.21 | $1.52 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .studio | $15.65 | $1.99 | Dynadot | Nov 26 - Dec 3, 2024 00:00 UTC | - |
+| .tube | $21.09 | $6.11 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .vision | $26.24 | $5.64 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .wtf | $24.18 | $4.61 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+| .xyz | $1.99 | $1.49 | Dynadot | Nov 26 - Dec 3, 2024 23:59 UTC | - |
+| .xyz | $11.82 | $2.04 | Porkbun | Nov 27 - Dec 1, 2024 | - |
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 🔄 Domain Transfer Deals
+
+Deals for transferring domains between registrars:
+
+| TLD | Original Price | Sale Price | Registrar | Dates | Code |
+|-----|----------------|------------|-----------|--------|------|
+| .com | $12.99 | $10.50 | Dynadot | Sep 1 - Dec 1, 2024 00:00 UTC | FALL1050 |
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 🎯 Bundle Deals
+
+Special pricing when registering multiple TLDs together:
+
+| Bundle | Original Price | Sale Price | Registrar | Dates | Notes |
+|--------|----------------|------------|-----------|--------|-------|
+| .com + .pro | $19.98 | $4.49 | Name.com | Nov 24-27, 2024 | Same SLD required |
+| .io + .tech | $22.98 | $8.99 | Dynadot | Nov 25 - Dec 2, 2024 00:00-23:59 UTC | Same SLD required |
+| .io + .tech | $46.65 | $9.99 | Name.com | Nov 24-27, 2024 | Same SLD required |
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 💎 Premium Domain Deals
+
+Discounts on premium domain names:
+
+| Category | Discount | Registrar | Dates | TLDs Included |
+|----------|----------|-----------|--------|---------------|
+| 75% Off | 75% | Dynadot | Nov 18 - Dec 6, 2024 14:00 UTC | .cfd, .sbs, .cyou, .bond, .icu |
+| 70% Off | 70% | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | .forum, .art, .cv |
+| 50% Off | 50% | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | .bar, .click, .diy, .food, .help, .lifestyle, .living, .love, .property, .rest |
+| 30% Off | 30% | Dynadot | Nov 29 - Dec 2, 2024 23:59 UTC | .my, .realty |
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 📰 Sources
+
+- [Dynadot Black Friday Sale](https://www.dynadot.com/black-friday-sale)
+- [Name.com Black Friday Deals](https://domainnamewire.com/2024/11/21/black-friday-4-49-com-9-99-io-at-name-com/)
+- [Porkbun Black Friday Event](https://porkbun.com/event/blackfriday)
+
+[⬆️ Go to Top](#table-of-contents)
+
+---
+
+## Contributing
+
+Please read our [Contributing Guidelines](https://github.com/MichaelCyger/domains-black-friday-cyber-monday/blob/main/CONTRIBUTING.md) before submitting a deal.
+
+## Maintainers
+
+- [@MichaelCyger on Github](https://github.com/MichaelCyger) / [@MichaelCyger on X](https://x.com/MichaelCyger)
+
+## Contributors
+
+Thanks to all the contributors who help maintain this list!
