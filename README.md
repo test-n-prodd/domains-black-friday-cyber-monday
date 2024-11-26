@@ -23,7 +23,7 @@ Total deals: 89
 - [🎯 Bundle Deals](#-bundle-deals)
 - [💎 Premium Domain Deals](#-premium-domain-deals)
 - [📰 Sources](#-sources)
-- [🏷️ Add a Deal](#-add-a-deal)
+- [🏷️ Add a Deal](#-add-a-dal)
 
 ## 🔥 Featured Deals
 
