@@ -187,9 +187,11 @@ Discounts on premium domain names:
 
 ## 🏷️ Add a Deal
 
-Three ways to submit a deal:
+[First, please read the Contributing Guidelines](https://github.com/MichaelCyger/domains-black-friday-cyber-monday/blob/main/CONTRIBUTING.md).
+
+Two ways to submit a deal:
 1. [Create an Issue](https://github.com/MichaelCyger/domains-black-friday-cyber-monday/issues/new?assignees=&labels=&template=new-deal-submission.md&title=New+Deal%3A+%5BCompany+Name%5D) (Easiest)
-2. [Send me a DM on X](https://x.com/MichaelCyger)
+2. [Send me a DM on X](https://x.com/MichaelCyger) (May delay entry)
 
 Please include:
 - Company/Registrar name
