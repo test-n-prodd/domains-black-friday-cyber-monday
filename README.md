@@ -23,7 +23,7 @@ Total deals: 89
 - [🎯 Bundle Deals](#-bundle-deals)
 - [💎 Premium Domain Deals](#-premium-domain-deals)
 - [📰 Sources](#-sources)
-- [🏷️ Add a Deal](#-add-a-deal)
+- [🏷️ Add a Deal](#️-add-a-deal)
 
 ## 🔥 Featured Deals
 
@@ -189,7 +189,7 @@ Discounts on premium domain names:
 
 Three ways to submit a deal:
 1. [Create an Issue](https://github.com/MichaelCyger/domains-black-friday-cyber-monday/issues/new?assignees=&labels=&template=new-deal-submission.md&title=New+Deal%3A+%5BCompany+Name%5D) (Easiest)
-3. [Send me a DM on X](https://x.com/MichaelCyger)
+2. [Send me a DM on X](https://x.com/MichaelCyger)
 
 Please include:
 - Company/Registrar name
