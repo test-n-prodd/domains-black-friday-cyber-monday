@@ -22,7 +22,8 @@ Total deals: 89
 - [🔄 Domain Transfer Deals](#-domain-transfer-deals)
 - [🎯 Bundle Deals](#-bundle-deals)
 - [💎 Premium Domain Deals](#-premium-domain-deals)
-- [📰 Sources](#-premium-domain-deals)
+- [📰 Sources](#-sources)
+- [🏷️ Add a Deal](#-add-a-deal)
 
 ## 🔥 Featured Deals
 
@@ -181,6 +182,22 @@ Discounts on premium domain names:
 - [Dynadot Black Friday Sale](https://www.dynadot.com/black-friday-sale)
 - [Name.com Black Friday Deals](https://domainnamewire.com/2024/11/21/black-friday-4-49-com-9-99-io-at-name-com/)
 - [Porkbun Black Friday Event](https://porkbun.com/event/blackfriday)
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 🏷️ Add a Deal
+
+Three ways to submit a deal:
+1. [Create an Issue](https://github.com/MichaelCyger/domains-black-friday-cyber-monday/issues/new?assignees=&labels=&template=new-deal-submission.md&title=New+Deal%3A+%5BCompany+Name%5D) (Easiest)
+3. [Send me a DM on X](https://x.com/MichaelCyger)
+
+Please include:
+- Company/Registrar name
+- Category
+- Deal description
+- Valid dates (with timezone if applicable)
+- Any coupon codes needed
+- Source URL
 
 [⬆️ Go to Top](#table-of-contents)
 
